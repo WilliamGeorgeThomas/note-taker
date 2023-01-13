@@ -1,16 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
         "title": "asdf",
         "text": "bcvbncvbnvt",
-        "note_id": "82a79a43-5323-43ad-93e7-8a31a08c96db"
+        "id": "82a79a43-5323-43ad-93e7-8a31a08c96db"
     },
     {
         "title": "this is only a test",
         "text": "c00l dude",
-        "note_id": "b521c5fd-4720-4be2-b973-072f5a9f62c6"
+        "id": "b521c5fd-4720-4be2-b973-072f5a9f62c6"
     }
 ]
