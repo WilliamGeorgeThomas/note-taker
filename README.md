@@ -42,4 +42,4 @@ For further information:
 
 # Screenshot
 
-![screenshot of note taker application](./public/assets/images/localhost_3001_notes.png)
+![screenshot of note taker website](./public/assets/images/localhost_3001_notes.png)
